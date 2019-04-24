@@ -185,6 +185,7 @@ int main(void)
 
 # Créditos
 
-[MrDave](https://github.com/MrDave1999) (for create pscanf.h, assertx.h and list.h/deletenode.h)
-
-[Microsoft](https://www.microsoft.com/es-ec/) (for create stdio, stdlib and stdint.h)
+- [MrDave](https://github.com/MrDave1999) 
+	- Por el desarrollo de pd-list.h 
+- [Microsoft Corporation](https://github.com/Microsoft) 
+	- Se usó el compilador `cl.exe` para poder compilar los códigos de prueba, de ese modo se comprueba sí no hubo algún error.
